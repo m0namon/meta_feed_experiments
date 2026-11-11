@@ -1,0 +1,314 @@
+{
+  "strong_id__": "AI@AQJXosyx-Cyw_D7BO2bW_he6s8yiTbSvD6Jk3YVABqZRE9PKjBASiS81g5ag8hwTEaz8T31O9EscZCr6Uoe7fjJ6",
+  "id": "AI@AQJXosyx-Cyw_D7BO2bW_he6s8yiTbSvD6Jk3YVABqZRE9PKjBASiS81g5ag8hwTEaz8T31O9EscZCr6Uoe7fjJ6",
+  "should_show_verified_advertiser_transparency_badge": false,
+  "about_ad_params": "",
+  "actor_id": 7038940509556475,
+  "ad_id": 120252497367370312,
+  "ad_objective_type": 43,
+  "ad_pod_rules": {
+    "num_ads_in_ad_pod": 0,
+    "index_in_ad_pod": 0,
+    "ad_pod_id": ""
+  },
+  "ad_title": "Ask For Funding",
+  "ads_debug_info": {
+    "adsBidInfo": {
+      "ecpmBid": 3011.9609876923,
+      "ecpmPrice": 2803.0,
+      "ectr": 0.0073890686035156,
+      "ecvr": 0.0,
+      "postImpEcvr": 1231,
+      "winningItemTotalBidPercentile": 0.8269169953975,
+      "organicBidInfo": {
+        "organicBidCpm": -0.052434757783466,
+        "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":-0.052435}",
+        "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_FEEDBACK_DISLIKE_PORNOGRAPHIC\":0,\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":0.191509,\"AD_EVENT_TYPE_LANDING_PAGE_DOMAIN_PENALTY\":0,\"AD_EVENT_TYPE_IMP_DISLIKE_REPORT_FEEDBACK_PENALTY\":-0.049582,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.126643,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE_REPETITIVE\":-0.037838,\"AD_EVENT_TYPE_RESOURCE_AWARE_RANKING_PENALTY\":0.001111,\"AD_EVENT_TYPE_NON_ENGAGEMENT\":-0.009702,\"AD_EVENT_ASQ_RELEVANCE\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":0,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_MORE\":0,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_LESS\":0.055816,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":0,\"AD_EVENT_TYPE_ENTERTAIN_SENTIMENT\":-0.015153,\"AD_EVENT_TYPE_NP2P_CONSTANT_SUBSIDY_BID\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_MORE_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_LESS_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_RTI_RELEVANCE\":0,\"AD_EVENT_TYPE_LEAD_ADS_QUALITY_SUBSIDY\":0,\"AD_EVENT_TYPE_AGGREGATED_SUBSIDY_FROM_ADPUBLISHER\":0,\"AD_EVENT_TYPE_CTX_SUBSIDY\":0,\"AD_EVENT_TYPE_IAB_AFI_SEE_MORE\":-0.002212,\"AD_EVENT_TYPE_IG_PROFILE_VISIT_SUBSIDY\":0,\"AD_EVENT_TYPE_RETENTION_SUBSIDY\":0,\"AD_EVENT_TYPE_PAYMENT_GATEWAY_SUBSIDY\":0,\"AD_EVENT_TYPE_SHOPS_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_AD_HEIGHT_BID\":0,\"AD_EVENT_TYPE_SOT_SUBSIDY\":0,\"AD_EVENT_FIRST_PARTY_PIXEL_SUBSIDY\":0,\"AD_EVENT_OBJECTIONABLE_ADS\":-0.063231,\"AD_EVENT_ADS_CONSTANT_SUBSIDY_COEFF\":0,\"AD_EVENT_TYPE_IG_CTD_SUBSIDY\":0,\"AD_EVENT_TYPE_IG_CTWA_SUBSIDY\":0,\"AD_EVENT_TYPE_IG_BOOST_COLD_START_SUBSIDY\":0,\"AD_EVENT_TYPE_MR_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_OFFSITE_CLO_CRM\":0,\"AD_EVENT_TYPE_SURVIVAL\":0,\"AD_EVENT_TYPE_DWELL_REPETITION_AFI_SEE_LESS\":0,\"AD_EVENT_TYPE_P13N_COMMON_QE_QRT_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_DR_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_MF_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_BRAND_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_ALL_ADS_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_VIDEO_LLM_BID\":0,\"AD_EVENT_TYPE_IG_ADS_CATEGORICAL_INTENT_AWARE_QUALITY_BID\":0,\"AD_EVENT_TYPE_ASF_HIGH_CONSIDERATION_SUBSIDY\":0,\"AD_EVENT_MULTI_EVENT_TYPE_ENGAGEMENT\":0.003456,\"AD_EVENT_TYPE_WABI_CTWA_MULTIPLICATIVE_PENALTY\":0,\"AD_EVENT_TYPE_ACE_FEEDBACK_SCAM_COEFF\":0,\"AD_EVENT_INSTAGRAM_FOLLOW_QUALITY_ALLADS_BID\":3.3e-5,\"AD_EVENT_LIVE_VIDEO_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_VERIFICATION_PENALTY_BID\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_RETURN_ATTEMPT_PREDICTION\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_DISSATISFIED_RETURN_PREDICTION\":0}",
+        "serializedImpOrganicCoeffMap": null,
+        "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_FEEDBACK_DISLIKE_PORNOGRAPHIC\":0,\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.051666,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_LANDING_PAGE_DOMAIN_PENALTY\":0,\"AD_EVENT_TYPE_IMP_DISLIKE_REPORT_FEEDBACK_PENALTY\":0.00017,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.001008,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.024395,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE_REPETITIVE\":5.9e-5,\"AD_EVENT_TYPE_RESOURCE_AWARE_RANKING_PENALTY\":-0.000222,\"AD_EVENT_TYPE_NON_ENGAGEMENT\":0.171306,\"AD_EVENT_ASQ_RELEVANCE\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0.64153,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":-0.003,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_MORE\":0.02619,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_LESS\":-0.012185,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":-0.13847,\"AD_EVENT_TYPE_ENTERTAIN_SENTIMENT\":-0.334441,\"AD_EVENT_TYPE_NP2P_CONSTANT_SUBSIDY_BID\":0.041524,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_MORE_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_LESS_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_RTI_RELEVANCE\":0,\"AD_EVENT_TYPE_LEAD_ADS_QUALITY_SUBSIDY\":1,\"AD_EVENT_TYPE_AGGREGATED_SUBSIDY_FROM_ADPUBLISHER\":1,\"AD_EVENT_TYPE_CTX_SUBSIDY\":1,\"AD_EVENT_TYPE_IAB_AFI_SEE_MORE\":-0.055808,\"AD_EVENT_TYPE_IG_PROFILE_VISIT_SUBSIDY\":1,\"AD_EVENT_TYPE_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_PAYMENT_GATEWAY_SUBSIDY\":0.11,\"AD_EVENT_TYPE_SHOPS_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_AD_HEIGHT_BID\":0,\"AD_EVENT_TYPE_SOT_SUBSIDY\":1,\"AD_EVENT_FIRST_PARTY_PIXEL_SUBSIDY\":1,\"AD_EVENT_OBJECTIONABLE_ADS\":0.507487,\"AD_EVENT_ADS_CONSTANT_SUBSIDY_COEFF\":1,\"AD_EVENT_TYPE_IG_CTD_SUBSIDY\":1,\"AD_EVENT_TYPE_IG_CTWA_SUBSIDY\":1,\"AD_EVENT_TYPE_IG_BOOST_COLD_START_SUBSIDY\":1,\"AD_EVENT_TYPE_MR_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_OFFSITE_CLO_CRM\":1,\"AD_EVENT_TYPE_SURVIVAL\":0,\"AD_EVENT_TYPE_DWELL_REPETITION_AFI_SEE_LESS\":0,\"AD_EVENT_TYPE_P13N_COMMON_QE_QRT_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_DR_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_MF_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_BRAND_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_ALL_ADS_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_VIDEO_LLM_BID\":43,\"AD_EVENT_TYPE_IG_ADS_CATEGORICAL_INTENT_AWARE_QUALITY_BID\":0,\"AD_EVENT_TYPE_ASF_HIGH_CONSIDERATION_SUBSIDY\":0.284259,\"AD_EVENT_MULTI_EVENT_TYPE_ENGAGEMENT\":0.003051,\"AD_EVENT_TYPE_WABI_CTWA_MULTIPLICATIVE_PENALTY\":0,\"AD_EVENT_TYPE_ACE_FEEDBACK_SCAM_COEFF\":0.201391,\"AD_EVENT_INSTAGRAM_FOLLOW_QUALITY_ALLADS_BID\":65.117733,\"AD_EVENT_LIVE_VIDEO_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_VERIFICATION_PENALTY_BID\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_RETURN_ATTEMPT_PREDICTION\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_DISSATISFIED_RETURN_PREDICTION\":0}",
+        "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1,\"AD_EVENT_TYPE_OMNI_SUBSIDY\":1,\"AD_EVENT_TYPE_TAX_COST_BID\":1,\"AD_EVENT_TYPE_REBATE_COST_BID\":1,\"AD_EVENT_TYPE_TCPA_BASED_SUBSIDY\":1,\"AD_EVENT_TYPE_FIRST_TIME_ADVERTISERS_LWI_SUBSIDY\":1,\"ADEVENT_LWI_GRADUATES_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_COBIDDING_SUBSIDY\":1,\"AD_EVENT_TYPE_APP_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_AUCTION_AWARE_AGENCY_INCENTIVE\":1,\"AD_EVENT_ARM_SUBSIDY\":1,\"AD_EVENT_CBO_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_RETAILER_FEE\":1,\"AD_EVENT_STAV_SUBSIDY\":1,\"AD_EVENT_TYPE_OFFSITE_CLO_WEB_SUBSIDY\":1,\"AD_EVENT_TYPE_WITHHOLDING_TAX_PENALTY\":1,\"AD_EVENT_TYPE_RETENTION_V2\":1,\"AD_EVENT_TYPE_RISK_AD_PENALTY\":1,\"AD_EVENT_TYPE_NEW_ADVERTISER_FINNET_P13N\":1}",
+        "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":-0.052435}",
+        "userDollarValue": 1132.6871817601
+      }
+    },
+    "adsRankingInfo": {
+      "afTotalValue": 1.6068428629439,
+      "ecpsBidRank": 98,
+      "organicRank": 44,
+      "totalBidRank": 98
+    }
+  },
+  "bid_info": {
+    "ecpm_percentile": 0.8269169953975,
+    "total_value": 1.6068428629439
+  },
+  "adtaxon_i18n_top1_l7_prediction": "Services//Finance//Credit & Lending//Loans//Business Loans",
+  "afi_info": {
+    "adtaxon_i18n_top1_l7_prediction": null,
+    "is_feed_dwell_afi_eligible": null,
+    "is_feed_post_click_afi_eligible": null,
+    "is_reels_dwell_afi_eligible": null,
+    "is_story_dwell_afi_eligible": null,
+    "feed_dwell_afi_info": null,
+    "feed_post_click_afi_info": null,
+    "interests_reco_info": null,
+    "story_dwell_ini_info": null,
+    "feed_repetition_info": null,
+    "reels_dwell_ini_info": null,
+    "iab_dwell_afi_info": null,
+    "reels_repetition_info": null,
+    "story_repetition_info": null,
+    "reels_midcard_info": null
+  },
+  "app_id": 0,
+  "campaign_destination_type": "UNDEFINED",
+  "bqrt_version": 39,
+  "brs_severity": 70,
+  "brs_threshold": 90,
+  "campaign_id": 120245774823630312,
+  "click_to_direct_lead_gen_ads_info": {
+    "isLeadGenAd": false
+  },
+  "client_recorded_request_time_ms": "1794371952347",
+  "cookies": [
+    "fr=0lZw0hzLa51iCbamM.AWdh-6vtT5GmA1YYpaS5TYROjQ-285hBQu0MHl3jX5JnoQhadO8.Bq8_F2..AAA.0.0.Bq8_F2.AWf82tbK_ZudmV30nzoJ8BU_D4Y; Expires=Tue, 09 Feb 2027 04:39:18 GMT; Max-Age=7776000; Path=/; Domain=.facebook.com; SameSite=None; Secure; HttpOnly"
+  ],
+  "creation_source": "ADS_MANAGER",
+  "ctd_ads_info": {
+    "business_response_time_in_sec": null,
+    "business_responsiveness_time_text": null,
+    "welcome_message_text": null
+  },
+  "ctmessaging_ads_info": {
+    "igAdvertiserId": null,
+    "isActive": false,
+    "isEligibleForOnFeedMessages": false,
+    "pageID": 209144005612879,
+    "responsivenessText": "Very responsive",
+    "secondaryCTASubtitle": "Very responsive",
+    "shouldNavigateToThread": false,
+    "shouldTreatLinkStickerAsCTA": false,
+    "is_web_to_whatsapp": false,
+    "eligible_features": [],
+    "model": null,
+    "privacyDisclosureInfo": null,
+    "socialProofInfo": null,
+    "whatsaAppAttributionInfo": {
+      "actionLink": null,
+      "adWhatsAppNumber": null,
+      "igdWhatsAppUpsellActionLink": null,
+      "ctAttributionIgProfileLinkToken": null
+    },
+    "messenger_attribution_info": {
+      "is_web_to_messenger": true,
+      "messenger_action_link": "fb-messenger://destination_ads/instagram/?page_id=209144005612879&show_get_started=0&show_privacy_nux=0&token=UPfzGUUhbf1DDhf6cBQLMCPNljpySoNU6rJrWjGu-FM.eyJhZCI6eyJhZF9pZCI6MTIwMjUyNDk3MzY3MzcwMzEyLCJmYl91c2VyX2lkIjo2MTU5NjU2ODQ2NTcxNCwiaXNfb3JnYW5pYyI6ZmFsc2UsInBvc3RfaWQiOm51bGwsInNvdXJjZV9hcHAiOiJpbnN0YWdyYW0ifSwiYWxnb3JpdGhtIjoiSE1BQy1TSEEyNTYiLCJpc3N1ZWRfYXQiOjE3OTQzNzE5NTgsInVzZXIiOnsibG9jYWxlIjoiZW5fVVMiLCJjb3VudHJ5IjoiY2EifX0",
+      "facebook_action_link": "fb://messaging_thread/?page_id=209144005612879&token=UPfzGUUhbf1DDhf6cBQLMCPNljpySoNU6rJrWjGu-FM.eyJhZCI6eyJhZF9pZCI6MTIwMjUyNDk3MzY3MzcwMzEyLCJmYl91c2VyX2lkIjo2MTU5NjU2ODQ2NTcxNCwiaXNfb3JnYW5pYyI6ZmFsc2UsInBvc3RfaWQiOm51bGwsInNvdXJjZV9hcHAiOiJpbnN0YWdyYW0ifSwiYWxnb3JpdGhtIjoiSE1BQy1TSEEyNTYiLCJpc3N1ZWRfYXQiOjE3OTQzNzE5NTgsInVzZXIiOnsibG9jYWxlIjoiZW5fVVMiLCJjb3VudHJ5IjoiY2EifX0"
+    },
+    "advertiserReachabilitySettings": [
+      {
+        "deliveryOption": 4,
+        "destinationType": 3
+      }
+    ],
+    "reelsCMCInfo": null,
+    "ctMessagingAdsIncentiveInfo": null
+  },
+  "direct_share": true,
+  "display_viewability_eligible": false,
+  "fb_app_id": 0,
+  "feed_caption_truncation_optimization_data": {
+    "caption_max_lines": 3
+  },
+  "global_position": 7,
+  "hide_flow_type": 2,
+  "hide_label": "Hide this",
+  "hide_reasons_v2": [
+    {
+      "reason": "NOT_RELEVANT",
+      "text": "It's not relevant"
+    },
+    {
+      "reason": "KEEP_SEEING_THIS",
+      "text": "I see it too often"
+    },
+    {
+      "reason": null,
+      "text": "It's inappropriate"
+    }
+  ],
+  "iab": {
+    "browser_peek": {
+      "should_disable": true,
+      "ineligibility_reason": "WRONG_PAGE_TYPE"
+    },
+    "story_caption_and_browser": {
+      "should_enable": false
+    },
+    "persistent_iab": null
+  },
+  "iab_post_click_data": {
+    "linkFrictionEnabled": false,
+    "linkFrictionEligibilityCountry": null,
+    "bottomsheetHeader": null,
+    "bottomsheetSubhead": null,
+    "bottom_sheet_payload": null,
+    "eligibleExperienceTypes": [
+      "IAB_ADDRESS_BAR_MENU",
+      "IAB_LEAKAGE_UX",
+      "IAB_STICKY_UTM_PARAMS",
+      "IAB_INNER_FRAME_DATA_COLLECTION"
+    ],
+    "impressionTime": 1794371958,
+    "revisitationScore": 30,
+    "intentTier": null,
+    "offsiteOtpEligibility": null,
+    "buyWithPrimeIABPostClickDataExtension": null,
+    "iabPostClickDisclaimers": [],
+    "metaCheckoutIABPostClickDataExtension": null,
+    "metaPaymentsSDKIABPostClickDataExtension": null,
+    "promoAdsAutofillPostClickDataExtension": null,
+    "metaWebToAppPostClickDataExtension": null,
+    "iabAutofillAdsPersonalizationPostClickDataExtension": null,
+    "paypalCheckoutPostClickDataExtension": null,
+    "iabAutofillAdsPersonalizationPostClickDataExtensionV2": null,
+    "iabCTWAPostClickDataExtension": null,
+    "shopifyAccountLinkingPostClickDataExtension": null,
+    "stripeCheckoutPostClickDataExtension": null,
+    "iabInnerFrameDataCollectionExtension": {
+      "isInnerFrameDataCollectionEnabled": false
+    },
+    "iabInfoHubExtension": null,
+    "iabFormAutoscrollDataExtension": null
+  },
+  "ig_ads_iab_screenshot_data_list": {
+    "ig_iab_screenshot_enabled_products": [
+      {
+        "screenshot_effect_on_user_action": "REDIRECT_TO_IAB",
+        "screenshot_effect_percent": 0.0,
+        "screenshot_transition_time": "ON_PAGE_INTERACTIVE",
+        "screenshot_url": "https://scontent-yyz1-1.cdninstagram.com/v/t45.1600-4/893429462_1482973977267380_1955674528237043748_n.png?_nc_cat=103&ccb=7-5&_nc_sid=f98f5a&_nc_ohc=IFBo44y6VdEQ7kNvwGIk35k&_nc_oc=Adr4V-KMcw-Y84IVNAfC7VYxQ3_x2HiVPpbJq1x_a67cthtUCuq_9Yh322hMKRtEswM&_nc_ad=z-m&_nc_cid=0&_nc_zt=1&_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_gid=lRcukW_ataWpP6yAW3GGkw&_nc_ss=7f39b&oh=00_AQSrjw0Bz-hobupEJEqIWwHbegI2lgSx3uHs1Gg1P-Lqfw&oe=6AF9C388",
+        "screenshot_variant": "NO_EFFECT",
+        "show_loading_indicator": false,
+        "screenshot_rendering_product_name": "WATCH_AND_BROWSE",
+        "iab_load_mode_after_screenshot": "AUTO",
+        "final_destination_url": "https://askforfunding.com/investors?utm_source=facebook&utm_medium=paidsocial&utm_campaign=TOF_ASC_Conversions%2BCampaign_New%2BCampaign&utm_content=TOF_Cold_ALL_Conversions_LAL%25285%2525%2529-180D-Purchaser%2B-%2BCopy&utm_term=PeopleLike",
+        "fix_iab_display_text": "Swipe up to load",
+        "mid_card_min_dwell_time_trigger_ms": null,
+        "smart_crop_info": null,
+        "screenshot_height": 2532,
+        "screenshot_width": 1170
+      }
+    ]
+  },
+  "ig_pbia_profile_and_browse_info": {
+    "ig_pbia_profile_and_browse_type": "PROFILE_BROWSE_HALF_SHEET_WITH_DISMISS",
+    "should_render_dimmer": false
+  },
+  "ig_transparency_and_control_disclaimer_data": {
+    "genai_disclaimer_text": null,
+    "disclaimers": [
+      {
+        "label": "About this ad",
+        "label_id": "AD_INFO",
+        "placement": "OVERFLOW_MENU",
+        "variants": null
+      }
+    ]
+  },
+  "ig_commerce_page_info": {
+    "entrypoint_to_module_infos_map": [],
+    "should_expose_on_client": false,
+    "log_post_click_falco_event": false,
+    "product_data_source": null,
+    "dlp_mini_pdp_info": {
+      "is_eligible": false,
+      "ineligibility_reason": "OTHER",
+      "product_item_id": null
+    }
+  },
+  "imp_signature": 41084,
+  "invalidation_rules": {
+    "meta_ids": [
+      "ad_id"
+    ],
+    "cross_surface": null,
+    "local_surface": [
+      {
+        "instruction": {
+          "signal": "seen",
+          "conditions": [
+            {
+              "comparator": "ge",
+              "lhs": "dwelltime",
+              "rhs": 250
+            },
+            {
+              "comparator": "le",
+              "lhs": "time",
+              "rhs": 7200000
+            }
+          ]
+        }
+      },
+      {
+        "instruction": {
+          "signal": "x-out",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "ads_pool",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "ads_inserted",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "app_install",
+          "conditions": null
+        }
+      }
+    ]
+  },
+  "is_app_mae_ad_exclusion_eligible": false,
+  "is_bau_ifu_eligible": false,
+  "is_consent_growth_ifu_eligible": false,
+  "is_consent_growth_popup_eligible": true,
+  "is_delayed_skip_ad": false,
+  "is_demo": false,
+  "is_feed_glados_control_eligible": null,
+  "is_form_extension_eligible": false,
+  "is_holdout": false,
+  "is_ig_events_excluded_ad": true,
+  "is_luxury_vertical_ad": false,
+  "is_multi_ads_eligible": true,
+  "is_pharma_vertical_ad": false,
+  "is_pharma_and_sensitive_vertical_ad": true,
+  "is_post_click_afi_eligible": false,
+  "is_shops_ifu_eligible": false,
+  "label": "Ad",
+  "lead_gen_new_experience_ineligible": true,
+  "media_id": 4017718214916052740,
+  "optimization_goal_name": "AD_OPTIMIZATION_GOAL_OFFSITE_CONVERSIONS",
+  "pac_ad_media_ids": null,
+  "page_id": 209144005612879,
+  "phone_number": null,
+  "post_trigger_experience_eligibilities_info": [],
+  "should_show_secondary_cta_on_profile": false,
+  "show_ad_choices": false,
+  "show_icon": true,
+  "sponsored_ad_disclaimer": null,
+  "tracking_token": "AI@AQJXosyx-Cyw_D7BO2bW_he6s8yiTbSvD6Jk3YVABqZRE9PKjBASiS81g5ag8hwTEaz8T31O9EscZCr6Uoe7fjJ6",
+  "unified_request_id": -5360722939939475236,
+  "view_tags": [],
+  "enable_on_media_facepile": null,
+  "page_type_code": 35,
+  "promoted_custom_event_type": "fb_mobile_purchase",
+  "is_affiliate_opo_ad": false
+}

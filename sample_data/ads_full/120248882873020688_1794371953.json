@@ -1,0 +1,314 @@
+{
+  "strong_id__": "AI@AQJmKjPFMJMuHZGkBALKNJLPiVOGjdyTAnsJXsNmGyeDBdc3-iPgAudnzYfH3VqTcP4pyLQnuaxIBzdyMvZAJnwh",
+  "id": "AI@AQJmKjPFMJMuHZGkBALKNJLPiVOGjdyTAnsJXsNmGyeDBdc3-iPgAudnzYfH3VqTcP4pyLQnuaxIBzdyMvZAJnwh",
+  "should_show_verified_advertiser_transparency_badge": false,
+  "about_ad_params": "",
+  "actor_id": 553997718043022,
+  "ad_id": 120248882873020688,
+  "ad_objective_type": 40,
+  "ad_pod_rules": {
+    "num_ads_in_ad_pod": 0,
+    "index_in_ad_pod": 0,
+    "ad_pod_id": ""
+  },
+  "ad_title": "Steinway & Sons",
+  "ads_debug_info": {
+    "adsBidInfo": {
+      "ecpmBid": 2124.2013734861,
+      "ecpmPrice": 1451.0,
+      "ectr": 0.0084609985351562,
+      "ecvr": 5.8656564295851e-05,
+      "postImpEcvr": 5865,
+      "winningItemTotalBidPercentile": 0.89663222348412,
+      "organicBidInfo": {
+        "organicBidCpm": 0.0070153247109056,
+        "serializedEventQualityMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":0.007015}",
+        "serializedImpOrganicBidMap": "{\"AD_EVENT_TYPE_FEEDBACK_DISLIKE_PORNOGRAPHIC\":0,\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":0.191509,\"AD_EVENT_TYPE_LANDING_PAGE_DOMAIN_PENALTY\":0,\"AD_EVENT_TYPE_IMP_DISLIKE_REPORT_FEEDBACK_PENALTY\":-0.015616,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":-0.100592,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE_REPETITIVE\":-0.022237,\"AD_EVENT_TYPE_RESOURCE_AWARE_RANKING_PENALTY\":-0.005881,\"AD_EVENT_TYPE_NON_ENGAGEMENT\":-0.008386,\"AD_EVENT_ASQ_RELEVANCE\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":0,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_MORE\":0,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_LESS\":-0.01501,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":0,\"AD_EVENT_TYPE_ENTERTAIN_SENTIMENT\":-0.018788,\"AD_EVENT_TYPE_NP2P_CONSTANT_SUBSIDY_BID\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_MORE_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_LESS_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_RTI_RELEVANCE\":0,\"AD_EVENT_TYPE_LEAD_ADS_QUALITY_SUBSIDY\":0,\"AD_EVENT_TYPE_AGGREGATED_SUBSIDY_FROM_ADPUBLISHER\":0,\"AD_EVENT_TYPE_CTX_SUBSIDY\":0,\"AD_EVENT_TYPE_IAB_AFI_SEE_MORE\":-0.000569,\"AD_EVENT_TYPE_IG_PROFILE_VISIT_SUBSIDY\":0,\"AD_EVENT_TYPE_RETENTION_SUBSIDY\":0,\"AD_EVENT_TYPE_PAYMENT_GATEWAY_SUBSIDY\":0,\"AD_EVENT_TYPE_SHOPS_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_AD_HEIGHT_BID\":0,\"AD_EVENT_TYPE_SOT_SUBSIDY\":0,\"AD_EVENT_FIRST_PARTY_PIXEL_SUBSIDY\":0,\"AD_EVENT_OBJECTIONABLE_ADS\":0,\"AD_EVENT_ADS_CONSTANT_SUBSIDY_COEFF\":0,\"AD_EVENT_TYPE_IG_CTD_SUBSIDY\":0,\"AD_EVENT_TYPE_IG_CTWA_SUBSIDY\":0,\"AD_EVENT_TYPE_IG_BOOST_COLD_START_SUBSIDY\":0,\"AD_EVENT_TYPE_MR_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_OFFSITE_CLO_CRM\":0,\"AD_EVENT_TYPE_SURVIVAL\":0,\"AD_EVENT_TYPE_DWELL_REPETITION_AFI_SEE_LESS\":0,\"AD_EVENT_TYPE_P13N_COMMON_QE_QRT_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_DR_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_MF_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_BRAND_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_P13N_ALL_ADS_UNIVERSE_SUBSIDY\":0,\"AD_EVENT_TYPE_VIDEO_LLM_BID\":0,\"AD_EVENT_TYPE_IG_ADS_CATEGORICAL_INTENT_AWARE_QUALITY_BID\":0,\"AD_EVENT_TYPE_ASF_HIGH_CONSIDERATION_SUBSIDY\":0,\"AD_EVENT_MULTI_EVENT_TYPE_ENGAGEMENT\":0.002309,\"AD_EVENT_TYPE_WABI_CTWA_MULTIPLICATIVE_PENALTY\":0,\"AD_EVENT_TYPE_ACE_FEEDBACK_SCAM_COEFF\":0,\"AD_EVENT_INSTAGRAM_FOLLOW_QUALITY_ALLADS_BID\":0.000275,\"AD_EVENT_LIVE_VIDEO_ADS_SUBSIDY\":0,\"AD_EVENT_TYPE_VERIFICATION_PENALTY_BID\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_RETURN_ATTEMPT_PREDICTION\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_DISSATISFIED_RETURN_PREDICTION\":0}",
+        "serializedImpOrganicCoeffMap": null,
+        "serializedImpOrganicScoreMap": "{\"AD_EVENT_TYPE_FEEDBACK_DISLIKE_PORNOGRAPHIC\":0,\"AD_EVENT_TYPE_REPETITION\":0,\"AD_EVENT_TYPE_AD_REPORT_OVER_HIDE_SCORE\":0.017837,\"AD_EVENT_TYPE_QUALITY_BID_OFFSET\":1,\"AD_EVENT_TYPE_LANDING_PAGE_DOMAIN_PENALTY\":0,\"AD_EVENT_TYPE_IMP_DISLIKE_REPORT_FEEDBACK_PENALTY\":5.3e-5,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE\":0.000801,\"AD_EVENT_TYPE_OOPS_BAD_AD_PENALTY\":0.000839,\"AD_EVENT_TYPE_IMP_BASED_FEEDBACK_DISLIKE_REPETITIVE\":3.4e-5,\"AD_EVENT_TYPE_RESOURCE_AWARE_RANKING_PENALTY\":0.001176,\"AD_EVENT_TYPE_NON_ENGAGEMENT\":0.14807,\"AD_EVENT_ASQ_RELEVANCE\":0,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_BID\":0.886649,\"AD_EVENT_TYPE_UNIFIED_OOPS_DELIVERY\":-0.003,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_MORE\":0.011542,\"AD_EVENT_TYPE_DWELL_TRIG_AFI_SEE_LESS\":0.003277,\"AD_EVENT_TYPE_PURCHASE_SENTIMENT_QUALITY_COEFF\":0.106649,\"AD_EVENT_TYPE_ENTERTAIN_SENTIMENT\":-0.414672,\"AD_EVENT_TYPE_NP2P_CONSTANT_SUBSIDY_BID\":0.027627,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_MORE_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_IG_AFI_POST_CLICK_SEE_LESS_CATEGORICAL_CONTROL\":0,\"AD_EVENT_TYPE_RTI_RELEVANCE\":0,\"AD_EVENT_TYPE_LEAD_ADS_QUALITY_SUBSIDY\":1,\"AD_EVENT_TYPE_AGGREGATED_SUBSIDY_FROM_ADPUBLISHER\":1,\"AD_EVENT_TYPE_CTX_SUBSIDY\":1,\"AD_EVENT_TYPE_IAB_AFI_SEE_MORE\":-0.01436,\"AD_EVENT_TYPE_IG_PROFILE_VISIT_SUBSIDY\":1,\"AD_EVENT_TYPE_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_PAYMENT_GATEWAY_SUBSIDY\":0.11,\"AD_EVENT_TYPE_SHOPS_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_AD_HEIGHT_BID\":0,\"AD_EVENT_TYPE_SOT_SUBSIDY\":1,\"AD_EVENT_FIRST_PARTY_PIXEL_SUBSIDY\":1,\"AD_EVENT_OBJECTIONABLE_ADS\":0,\"AD_EVENT_ADS_CONSTANT_SUBSIDY_COEFF\":1,\"AD_EVENT_TYPE_IG_CTD_SUBSIDY\":1,\"AD_EVENT_TYPE_IG_CTWA_SUBSIDY\":1,\"AD_EVENT_TYPE_IG_BOOST_COLD_START_SUBSIDY\":1,\"AD_EVENT_TYPE_MR_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_OFFSITE_CLO_CRM\":1,\"AD_EVENT_TYPE_SURVIVAL\":0.010499,\"AD_EVENT_TYPE_DWELL_REPETITION_AFI_SEE_LESS\":0,\"AD_EVENT_TYPE_P13N_COMMON_QE_QRT_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_DR_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_MF_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_BRAND_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_P13N_ALL_ADS_UNIVERSE_SUBSIDY\":1,\"AD_EVENT_TYPE_VIDEO_LLM_BID\":35,\"AD_EVENT_TYPE_IG_ADS_CATEGORICAL_INTENT_AWARE_QUALITY_BID\":0,\"AD_EVENT_TYPE_ASF_HIGH_CONSIDERATION_SUBSIDY\":0.02595,\"AD_EVENT_MULTI_EVENT_TYPE_ENGAGEMENT\":0.002039,\"AD_EVENT_TYPE_WABI_CTWA_MULTIPLICATIVE_PENALTY\":0,\"AD_EVENT_TYPE_ACE_FEEDBACK_SCAM_COEFF\":0,\"AD_EVENT_INSTAGRAM_FOLLOW_QUALITY_ALLADS_BID\":539.889701,\"AD_EVENT_LIVE_VIDEO_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_VERIFICATION_PENALTY_BID\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_RETURN_ATTEMPT_PREDICTION\":0,\"AD_EVENT_TYPE_ACF_VR_MEASUREMENT_DISSATISFIED_RETURN_PREDICTION\":0}",
+        "serializedOrganicEventProbMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":1,\"AD_EVENT_TYPE_OMNI_SUBSIDY\":1,\"AD_EVENT_TYPE_TAX_COST_BID\":1,\"AD_EVENT_TYPE_REBATE_COST_BID\":1,\"AD_EVENT_TYPE_TCPA_BASED_SUBSIDY\":1,\"AD_EVENT_TYPE_FIRST_TIME_ADVERTISERS_LWI_SUBSIDY\":1,\"ADEVENT_LWI_GRADUATES_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_COBIDDING_SUBSIDY\":1,\"AD_EVENT_TYPE_APP_ADS_SUBSIDY\":1,\"AD_EVENT_TYPE_AUCTION_AWARE_AGENCY_INCENTIVE\":1,\"AD_EVENT_ARM_SUBSIDY\":1,\"AD_EVENT_CBO_RETENTION_SUBSIDY\":1,\"AD_EVENT_TYPE_RETAILER_FEE\":1,\"AD_EVENT_STAV_SUBSIDY\":1,\"AD_EVENT_TYPE_OFFSITE_CLO_WEB_SUBSIDY\":1,\"AD_EVENT_TYPE_WITHHOLDING_TAX_PENALTY\":1,\"AD_EVENT_TYPE_RETENTION_V2\":1,\"AD_EVENT_TYPE_RISK_AD_PENALTY\":1,\"AD_EVENT_TYPE_NEW_ADVERTISER_FINNET_P13N\":1}",
+        "serializedPacedOrganicBidMap": "{\"AD_EVENT_TYPE_IMPRESSION_DUMMY\":0.007015}",
+        "userDollarValue": 1132.6871817601
+      }
+    },
+    "adsRankingInfo": {
+      "afTotalValue": 2.3491348286722,
+      "ecpsBidRank": 96,
+      "organicRank": 74,
+      "totalBidRank": 96
+    }
+  },
+  "bid_info": {
+    "ecpm_percentile": 0.89663222348412,
+    "total_value": 2.3491348286722
+  },
+  "adtaxon_i18n_top1_l7_prediction": "Products//Musical Instruments//Pianos",
+  "afi_info": {
+    "adtaxon_i18n_top1_l7_prediction": null,
+    "is_feed_dwell_afi_eligible": null,
+    "is_feed_post_click_afi_eligible": null,
+    "is_reels_dwell_afi_eligible": null,
+    "is_story_dwell_afi_eligible": null,
+    "feed_dwell_afi_info": null,
+    "feed_post_click_afi_info": null,
+    "interests_reco_info": null,
+    "story_dwell_ini_info": null,
+    "feed_repetition_info": null,
+    "reels_dwell_ini_info": null,
+    "iab_dwell_afi_info": null,
+    "reels_repetition_info": null,
+    "story_repetition_info": null,
+    "reels_midcard_info": null
+  },
+  "app_id": 0,
+  "campaign_destination_type": "UNDEFINED",
+  "bqrt_version": 39,
+  "brs_severity": 70,
+  "brs_threshold": 90,
+  "campaign_id": 120248734972690688,
+  "click_to_direct_lead_gen_ads_info": {
+    "isLeadGenAd": false
+  },
+  "client_recorded_request_time_ms": "1794371946852",
+  "cookies": [
+    "fr=1RXxeAl8eFQOh2Pdw.AWeezeqbq_3VNidRYxT5JyfIcn1XgfLqLFO-Eait_R8Zh23HLYY.Bq8_Fv..AAA.0.0.Bq8_Fv.AWdUJ5Gp8YKT7xSFoBb5EEDHGx0; Expires=Tue, 09 Feb 2027 04:39:11 GMT; Max-Age=7776000; Path=/; Domain=.facebook.com; SameSite=None; Secure; HttpOnly"
+  ],
+  "creation_source": "ADS_MANAGER",
+  "ctd_ads_info": {
+    "business_response_time_in_sec": null,
+    "business_responsiveness_time_text": null,
+    "welcome_message_text": null
+  },
+  "direct_share": true,
+  "display_viewability_eligible": false,
+  "fb_app_id": 0,
+  "feed_caption_truncation_optimization_data": {
+    "caption_max_lines": 3
+  },
+  "global_position": 2,
+  "hide_flow_type": 2,
+  "hide_label": "Hide this",
+  "hide_reasons_v2": [
+    {
+      "reason": "NOT_RELEVANT",
+      "text": "It's not relevant"
+    },
+    {
+      "reason": "KEEP_SEEING_THIS",
+      "text": "I see it too often"
+    },
+    {
+      "reason": null,
+      "text": "It's inappropriate"
+    }
+  ],
+  "iab": {
+    "browser_peek": {
+      "should_disable": true,
+      "ineligibility_reason": "WRONG_PAGE_TYPE"
+    },
+    "story_caption_and_browser": {
+      "should_enable": false
+    },
+    "persistent_iab": null
+  },
+  "iab_post_click_data": {
+    "linkFrictionEnabled": false,
+    "linkFrictionEligibilityCountry": null,
+    "bottomsheetHeader": null,
+    "bottomsheetSubhead": null,
+    "bottom_sheet_payload": null,
+    "eligibleExperienceTypes": [
+      "IAB_ADDRESS_BAR_MENU",
+      "IAB_LEAKAGE_UX",
+      "IAB_STICKY_UTM_PARAMS",
+      "IAB_FORM_AUTOSCROLL",
+      "IAB_INNER_FRAME_DATA_COLLECTION",
+      "IAB_LEADGEN_AUTOPROMPT"
+    ],
+    "impressionTime": 1794371951,
+    "revisitationScore": 30,
+    "intentTier": null,
+    "offsiteOtpEligibility": "NOT_ELIGIBLE",
+    "buyWithPrimeIABPostClickDataExtension": null,
+    "iabPostClickDisclaimers": [],
+    "metaCheckoutIABPostClickDataExtension": null,
+    "metaPaymentsSDKIABPostClickDataExtension": null,
+    "promoAdsAutofillPostClickDataExtension": null,
+    "metaWebToAppPostClickDataExtension": null,
+    "iabAutofillAdsPersonalizationPostClickDataExtension": null,
+    "paypalCheckoutPostClickDataExtension": null,
+    "iabAutofillAdsPersonalizationPostClickDataExtensionV2": null,
+    "iabCTWAPostClickDataExtension": null,
+    "shopifyAccountLinkingPostClickDataExtension": null,
+    "stripeCheckoutPostClickDataExtension": null,
+    "iabInnerFrameDataCollectionExtension": {
+      "isInnerFrameDataCollectionEnabled": false
+    },
+    "iabInfoHubExtension": {
+      "userEnhancedBrowsingSettingsEnabled": true,
+      "metaAiNuxOnboardingShown": false,
+      "metaAiNuxAccepted": false
+    },
+    "iabFormAutoscrollDataExtension": {
+      "elementSelectorString": "#dealer-form",
+      "selectorSource": "avocado-tier5-v2"
+    }
+  },
+  "ig_ads_iab_screenshot_data_list": {
+    "ig_iab_screenshot_enabled_products": []
+  },
+  "ig_feed_video_watch_and_browse_info": {
+    "ig_ads_feed_video_watch_and_browse_viewer_min_screen_threshold": 0.55,
+    "ig_ads_feed_video_watch_and_browse_viewer_type": "POST_TAP_WATCH_AND_BROWSE_VIEWER_ON_REELS_VIEWER_WITH_CHAINING",
+    "destination_type": null,
+    "is_eligible_for_delay": false
+  },
+  "ig_pbia_profile_and_browse_info": {
+    "ig_pbia_profile_and_browse_type": "PROFILE_BROWSE_HALF_SHEET_WITH_DISMISS",
+    "should_render_dimmer": false
+  },
+  "ig_transparency_and_control_disclaimer_data": {
+    "genai_disclaimer_text": null,
+    "disclaimers": [
+      {
+        "label": "About this ad",
+        "label_id": "AD_INFO",
+        "placement": "OVERFLOW_MENU",
+        "variants": null
+      }
+    ]
+  },
+  "ig_commerce_page_info": {
+    "entrypoint_to_module_infos_map": [],
+    "should_expose_on_client": false,
+    "log_post_click_falco_event": false,
+    "product_data_source": null,
+    "dlp_mini_pdp_info": {
+      "is_eligible": false,
+      "ineligibility_reason": "OTHER",
+      "product_item_id": null
+    }
+  },
+  "imp_signature": 51012,
+  "invalidation_rules": {
+    "meta_ids": [
+      "ad_id"
+    ],
+    "cross_surface": null,
+    "local_surface": [
+      {
+        "instruction": {
+          "signal": "seen",
+          "conditions": [
+            {
+              "comparator": "ge",
+              "lhs": "dwelltime",
+              "rhs": 250
+            },
+            {
+              "comparator": "le",
+              "lhs": "time",
+              "rhs": 7200000
+            }
+          ]
+        }
+      },
+      {
+        "instruction": {
+          "signal": "x-out",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "ads_pool",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "ads_inserted",
+          "conditions": null
+        }
+      },
+      {
+        "instruction": {
+          "signal": "app_install",
+          "conditions": null
+        }
+      }
+    ]
+  },
+  "is_app_mae_ad_exclusion_eligible": false,
+  "is_bau_ifu_eligible": false,
+  "is_consent_growth_ifu_eligible": false,
+  "is_consent_growth_popup_eligible": true,
+  "is_delayed_skip_ad": false,
+  "is_demo": false,
+  "is_feed_glados_control_eligible": null,
+  "is_form_extension_eligible": false,
+  "is_holdout": false,
+  "is_ig_events_excluded_ad": false,
+  "is_luxury_vertical_ad": false,
+  "is_multi_ads_eligible": true,
+  "is_pharma_vertical_ad": false,
+  "is_pharma_and_sensitive_vertical_ad": false,
+  "is_post_click_afi_eligible": false,
+  "is_shops_ifu_eligible": false,
+  "label": "Ad",
+  "lead_gen_new_experience_ineligible": false,
+  "lead_gen_preclick_data": {
+    "single_question_scj_data_list": [
+      {
+        "first_question_data": {
+          "label": "",
+          "options": [],
+          "question_type": 5,
+          "cta_text": "Book now",
+          "contact_info_questions": [
+            {
+              "field_label": "Full name",
+              "field_key": "FULL_NAME",
+              "field_type": "FULL_NAME",
+              "field_prefill_value": "m w"
+            },
+            {
+              "field_label": "Email",
+              "field_key": "EMAIL",
+              "field_type": "EMAIL",
+              "field_prefill_value": "spider.maguire223@gmail.com"
+            }
+          ],
+          "early_form_submission_eligible": false
+        },
+        "feature_formats": [],
+        "feature_format": "IG_FEED_COMMENT_OFFSITE_CIQ",
+        "carousel_questions_data": []
+      }
+    ]
+  },
+  "media_id": 4022447202101101647,
+  "optimization_goal_name": "AD_OPTIMIZATION_GOAL_OFFSITE_CONVERSIONS",
+  "pac_ad_media_ids": null,
+  "page_id": 164364336998978,
+  "phone_number": null,
+  "post_trigger_experience_eligibilities": [
+    5,
+    7
+  ],
+  "post_trigger_experience_eligibilities_info": [],
+  "should_fetch_preview_comments": true,
+  "should_show_secondary_cta_on_profile": false,
+  "show_ad_choices": false,
+  "show_icon": true,
+  "sponsored_ad_disclaimer": null,
+  "tracking_token": "AI@AQJmKjPFMJMuHZGkBALKNJLPiVOGjdyTAnsJXsNmGyeDBdc3-iPgAudnzYfH3VqTcP4pyLQnuaxIBzdyMvZAJnwh",
+  "unified_request_id": -5360722939939475236,
+  "view_tags": [],
+  "enable_ads_follow_button": true,
+  "enable_on_media_facepile": null,
+  "page_type_code": 35,
+  "promoted_custom_event_type": "other",
+  "is_affiliate_opo_ad": false
+}
