@@ -4,6 +4,7 @@ Sample JSON data returned from the timeline/ endpoint from Instagram 450.0.0.50.
  * `media_or_ad`: either a regular post or an ad
  * `explore_story`: injected Reels post, wraps a "nested" `media_or_ad` post from Reels
  * `suggested_users`: "Suggested for you" account recommendation.
+`item_types/` also has isolated JSON examples of each type of `feed_item`.
 
 Interestingly enough, for this version of IG, ads include `ad_debug_info`, which contain insanely rich detail about the ad including bidding data, expected conversion rates, etc. Samples of the full ad object can be found in `ad_full/`.
 
